@@ -39,8 +39,8 @@ Results-driven Software Engineer passionate about software development, cloud co
 ## 🚀 Project Details
 
 - **Pystringmini**  
-  A Python package for string operations published on PyPI.  
-  [Package Link](https://pypi.org/project/Pystringmini/)
+  A Python package for Dsa algorithm purpose published on PyPI.  
+  [Package Link](https://pypi.org/project/dsaedge/)
 
 - **Result Publishing Website**  
   Python and Flask-based web app using MySQL for automated result publishing.  
