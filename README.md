@@ -48,7 +48,7 @@ Results-driven Software Engineer passionate about software development, cloud co
   
 - **Grocery-Store Website Using Python Flask**                                                                                         
   A grocery-store website allows customers to shop online instead of visiting the store, which saves time and reduces queues at billing counters.                                                                  
-  [WebSite](https://grocery-store-eight-eta.vercel.app/)
+  [Demo Link](https://grocery-store-eight-eta.vercel.app/)
   
 - **Dsaedge**  
   A Python package for Dsa algorithm purpose published on PyPI.  
