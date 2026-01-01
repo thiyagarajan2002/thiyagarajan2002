@@ -39,17 +39,14 @@ Results-driven Software Engineer passionate about software development, cloud co
 ## 🚀 Project Details
 
 - **Linux Software Repository**
-
    Linux command-based local software repository using MySQL and Bash scripts.
    [Package Link](https://github.com/thiyagarajan2002/Software_Repository/)
   
 - **Custom Linux Commands**
-
    Custom Linux commands developed using Bash scripts.
    [Package Link](https://github.com/thiyagarajan2002/Linux_Config)
   
 - **Grocery-Store Website Using Python Flask**
-
   A grocery-store website allows customers to shop online instead of visiting the store, which saves time and reduces queues at billing counters.
   [Package Link](https://grocery-store-eight-eta.vercel.app/)
   
